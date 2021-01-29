@@ -34,8 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
   
-# source: _jekyll 
-# destination: blog
+source: _jekyll 
+destination: blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
