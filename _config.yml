@@ -113,8 +113,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-source: _jekyll 
-destination: blog
+# source: _jekyll 
+# destination: blog
 
 permalink: /:title/
 
